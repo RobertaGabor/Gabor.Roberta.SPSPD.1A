@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1593614530 source:c:\users\tcl\desktop\gabor.splab.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"controladores.h"
+	<time.h>
+	"utn_biblioteca.h"
+
+1593614555 c:\users\tcl\desktop\gabor.splab.1a\linkedlist.h
+
+1593613745 c:\users\tcl\desktop\gabor.splab.1a\controladores.h
+
+1593609022 source:c:\users\tcl\desktop\gabor.splab.1a\controladores.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"ePais.h"
+	<string.h>
+	"controladores.h"
+
+1593613760 c:\users\tcl\desktop\gabor.splab.1a\epais.h
+	"linkedlist.h"
+
+1593574490 source:c:\users\tcl\desktop\gabor.splab.1a\utn_biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_biblioteca.h"
+
+1593568150 c:\users\tcl\desktop\gabor.splab.1a\utn_biblioteca.h
+
+1593614459 source:c:\users\tcl\desktop\gabor.splab.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedlist.h"
+	"ePais.h"
+
+1593613777 source:c:\users\tcl\desktop\gabor.splab.1a\epais.c
+	<stdio.h>
+	<stdlib.h>
+	"ePais.h"
+	<string.h>
+	"linkedlist.h"
+	"utn_biblioteca.h"
+
