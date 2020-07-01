@@ -31,9 +31,25 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="controladores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="controladores.h" />
+		<Unit filename="ePais.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ePais.h" />
+		<Unit filename="linkedlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linkedlist.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="utn_biblioteca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utn_biblioteca.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
